@@ -1,0 +1,17 @@
+.form {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  background: #4876da;
+  align-content: center;
+  justify-items: center;
+
+  &-input {
+    width: 300px;
+    margin: 10px;
+  }
+
+  &-btn {
+    margin: 10px;
+  }
+}

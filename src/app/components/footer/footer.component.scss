@@ -1,0 +1,12 @@
+.container {
+  max-width: 1400px;
+  background: #000;
+  color: #cccccc;
+  margin: 0 auto;
+
+  .cols {
+    display: flex;
+    justify-content: start;
+    align-items: start;
+  }
+}
